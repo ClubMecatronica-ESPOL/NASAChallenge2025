@@ -50,6 +50,10 @@ This project aims to **better understand sharks**, their foraging patterns, and 
 2. **The mathematical algorithm** receives both device and NASA satellite data.
 3. **The predictive model** estimates likely shark trajectories and foraging zones.
 4. **The visualization module** creates interactive maps and graphs.
+5. 
+<div align="center">
+  <img src="images/tactialShark.jpg" alt="tracker" width="300"/>
+</div>
 
 ---
 
