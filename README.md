@@ -132,8 +132,7 @@ python visualizador_de_grupos.py
 ## 🌟 Results
 
 * Global maps of **shark activity**
-* Identification of **foraging hotspots**
-* Visualization of the relationship between **phytoplankton and sharks**
+* Identification of **possible location of sharks**
 
 Map of sharks localization with our vizualizer
 
