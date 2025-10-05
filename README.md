@@ -1,6 +1,6 @@
-<h1 align="left">🦈 Shark Tracker: Predicting Shark Foraging Habitats with NASA Data 🌊
-<img src="images/CDMLogo.png" width="100" height="100" align="right"/>
-</h1>
+<h1 align="left"> <img src="images/CDMLogo.png" width="100" height="100" align="right"/> </h1>
+
+<h1 align="left">🦈 Shark Tracker: Predicting Shark Foraging Habitats with NASA Data 🌊</h1>
 
 ![Shark Tracker Banner](https://your-image-link.com/banner.png) <!-- Optional: add a banner image -->
 
