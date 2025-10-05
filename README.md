@@ -135,6 +135,8 @@ Map of sharks localization with our vizualizer
 </div>
 
 ---
+## PowerPoint
+* Shark Traker: [https://www.canva.com/design](https://www.canva.com/design/DAG074KM4w4/smXDEA7Ftc7693ESUzWnEQ/view?utm_content=DAG074KM4w4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h45aa6a81e7)
 
 ## 📚 References
 
