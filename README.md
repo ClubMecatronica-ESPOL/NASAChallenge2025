@@ -114,6 +114,12 @@ python modelo.py
 ```bash
 python prediccion.py
 ```
+
+8. Visualize the graphics:
+
+```bash
+python visualizacion.py
+```
 ---
 
 ## 🌟 Results
