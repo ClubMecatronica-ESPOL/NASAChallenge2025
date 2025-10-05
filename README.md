@@ -26,7 +26,6 @@ This project aims to **better understand sharks**, their foraging patterns, and 
 * **🌐 Visualization Algorithm**
 
   * Generates interactive maps and graphs of shark activity.
-  * Based on algorithms from the discussion "Most Abundant Shark Species".
 
 ---
 
@@ -89,7 +88,7 @@ python visualize_shark_data.py
 
 ---
 
-## 🌟 Expected Results
+## 🌟 Results
 
 * Global maps of **shark activity**
 * Identification of **foraging hotspots**
@@ -113,25 +112,9 @@ python visualize_shark_data.py
 
 ---
 
-## 🐬 Contributing
-
-Contributions are welcome! To collaborate:
-
-1. Fork the repository
-2. Create your branch: `git checkout -b feature/new-feature`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Open a Pull Request 🚀
-
----
-
-## ⚠️ Note
-
-This project is a **prototype simulation**. Any physical device must comply with **marine conservation regulations** and **animal ethics**.
-
----
-
 ## 🦈 Contact
-
-William Mayorga - [your-email@example.com](mailto:your-email@example.com)
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Sebastian Benitez​ - [@espol.edu.ec](mailto:@espol.edu.ec)
+Abel López Macías​ - [@espol.edu.ec](mailto:@espol.edu.ec)
+Sebastian Mites​ - [@espol.edu.ec](mailto:@espol.edu.ec)
+Sophia Eras Aspiazu​ - [@espol.edu.ec](mailto:@espol.edu.ec)
+William Mayorga - [wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
