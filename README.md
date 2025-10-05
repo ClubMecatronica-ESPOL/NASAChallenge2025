@@ -1,7 +1,7 @@
 # <h1 align="left">🦈 Shark Tracker <img src="images/CDMLogo.png" width="100" height="100" align="right"/> </h1>
 Predicting Shark Foraging Habitats with NASA Data 🌊
 
-![Shark Tracker Banner](https://your-image-link.com/banner.png) <!-- Optional: add a banner image -->
+![Imagencita del producto](https://your-image-link.com/banner.png) <!-- Optional: add a banner image -->
 
 ## 🔍 Project
 
@@ -115,7 +115,11 @@ python visualize_shark_data.py
 
 ## 🦈 Contact
 Sebastian Benitez​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+
 Abel López Macías​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+
 Sebastian Mites​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+
 Sophia Eras Aspiazu​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+
 William Mayorga - [123wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
