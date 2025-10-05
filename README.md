@@ -2,7 +2,7 @@
 Predicting Shark Foraging Habitats with NASA Data 🌊
 
 <div align="center">
-  <img src="images/tracker.jpg" alt="tracker" width="300"/>
+  <img src="images/assembly.gif" alt="tracker" width="300"/>
 </div>
 
 ## 🔍 Project
