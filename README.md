@@ -1,7 +1,9 @@
 # <h1 align="left">🦈 Shark Tracker <img src="images/CDMLogo.png" width="100" height="100" align="right"/> </h1>
 Predicting Shark Foraging Habitats with NASA Data 🌊
 
-![tracker](images/tracker.jpg)
+<div align="center">
+  <img src="images/tracker.jpg" alt="tracker" width="300"/>
+</div>
 
 ## 🔍 Project
 
