@@ -107,6 +107,12 @@ python visualize_shark_data.py
 * Identification of **foraging hotspots**
 * Visualization of the relationship between **phytoplankton and sharks**
 
+Map of sharks localization with our vizualizer
+
+<div align="center">
+  <img src="images/vizualizer.png" alt="map" width="500"/>
+</div>
+
 ---
 
 ## 📚 References
