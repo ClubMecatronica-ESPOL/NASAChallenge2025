@@ -63,25 +63,30 @@ This project aims to **better understand sharks**, their foraging patterns, and 
 
 ## 🚀 How to Run the Project
 
-1. Clone this repository:
+To use this project, you need to:
+
+1. Download sea surface temperature (SST) and chlorophyll concentration data using NASA's OB.DAAC Level 3 & 4 Browser: https://oceandata.sci.gsfc.nasa.gov/l3/
+Prepare shark location data in CSV format (id, lat, lon) obtained from the tracker or generated synthetically for testing.
+
+2. Then, clone this repository:
 
 ```bash
 git clone https://github.com/your-username/shark-tracker.git
 ```
 
-2. Install dependencies:
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the prediction algorithm:
+4. Run the prediction algorithm:
 
 ```bash
 python predict_shark_path.py
 ```
 
-4. Visualize the results:
+5. Visualize the results:
 
 ```bash
 python visualize_shark_data.py
