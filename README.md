@@ -124,12 +124,12 @@ python visualize_shark_data.py
 ---
 
 ## 🦈 Contact
-Sebastian Benitez​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Sebastian Benitez​ - [sfbenite@espol.edu.ec](mailto:@espol.edu.ec)
 
-Abel López Macías​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Abel López Macías​ - [ailopez@espol.edu.ec](mailto:@espol.edu.ec)
 
-Sebastian Mites​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Sebastian Mites​ - [dmites@espol.edu.ec](mailto:@espol.edu.ec)
 
-Sophia Eras Aspiazu​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Sophia Eras Aspiazu​ - [speras@espol.edu.ec](mailto:@espol.edu.ec)
 
-William Mayorga - [123wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
+William Mayorga - [wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
