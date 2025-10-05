@@ -118,7 +118,6 @@ Map of sharks localization with our vizualizer
 ## 📚 References
 
 * NASA PACE Mission: [https://pace.gsfc.nasa.gov/](https://pace.gsfc.nasa.gov/)
-* NASA SWOT Mission: [https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/)
 * NASA OB.DAAC Level 3 & 4 Data Browser: [https://oceandata.sci.gsfc.nasa.gov/l3/](https://oceandata.sci.gsfc.nasa.gov/l3/)
 * DataOne Repository (Chlorophyll and SST datasets): [https://search.dataone.org/view/10.24431/rw1k329](https://search.dataone.org/view/10.24431/rw1k329)
 
