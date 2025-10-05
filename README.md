@@ -110,7 +110,7 @@ python visualize_shark_data.py
 Map of sharks localization with our vizualizer
 
 <div align="center">
-  <img src="images/vizualizer.png" alt="map" width="500"/>
+  <img src="images/map.jpg" alt="map" width="1000"/>
 </div>
 
 ---
