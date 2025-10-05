@@ -87,10 +87,14 @@ git clone https://github.com/your-username/shark-tracker.git
 pip install -r requirements.txt
 ```
 
-4. Run the prediction algorithm:
+4. Move your .nc files of temperature to a folder and the .nc files of chlorophyle to another one and run the program to convert the data to scv file (modify the code of the programs with your .nc folder path):
 
 ```bash
-python predict_shark_path.py
+python temp_convertir_nc_a_csv.py
+```
+
+```bash
+python chloro_convertir_nc_a_csv.py
 ```
 
 5. Visualize the results:
