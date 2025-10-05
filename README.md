@@ -120,6 +120,13 @@ python prediccion.py
 ```bash
 python visualizacion.py
 ```
+
+Additionally, our Shark Tracker is designed to transmit shark location data, resulting in a CSV file similar to tiburones_localizados_ejemplo.csv. We developed a program to visualize these groups of sharks along with sea temperature and chlorophyll concentration data.
+
+```bash
+python visualizador_de_grupos.py
+```
+
 ---
 
 ## 🌟 Results
