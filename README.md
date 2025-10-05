@@ -11,6 +11,8 @@ Predicting Shark Foraging Habitats with NASA Data 🌊
 
 This project aims to **better understand sharks**, their foraging patterns, and contribute to **marine ecosystem conservation**.
 
+> Note: The models of the Shark Tracker can be found in the `models` folder.
+ 
 ---
 
 ## 🛠 Project Features
