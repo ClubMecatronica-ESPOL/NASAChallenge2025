@@ -123,14 +123,6 @@ Map of sharks localization with our vizualizer
 
 ---
 
-## 💡 Next Steps
-
-* Integrate additional sensors to measure **diet in real-time**
-* Optimize the predictive model using **machine learning**
-* Expand **interactive visualization** into a web dashboard
-
----
-
 ## 🦈 Contact
 Sebastian Benitez​ - [sfbenite@espol.edu.ec](mailto:@espol.edu.ec)
 
