@@ -1,0 +1,11 @@
+pandas>=2.0
+xarray>=2023.0
+netCDF4>=1.6
+numpy>=1.24
+hvplot>=0.9
+panel>=1.14
+datashader>=0.14
+bokeh>=3.1
+matplotlib>=3.8
+geoviews>=1.10
+pyproj>=3.6
