@@ -1,4 +1,6 @@
-# 🦈 Shark Tracker: Predicting Shark Foraging Habitats with NASA Data 🌊
+<h1 align="left">🦈 Shark Tracker: Predicting Shark Foraging Habitats with NASA Data 🌊
+<img src="https://your-image-link.com/logo.png" alt="Logo" width="60" style="float:right;"/>
+</h1>
 
 ![Shark Tracker Banner](https://your-image-link.com/banner.png) <!-- Optional: add a banner image -->
 
@@ -113,8 +115,8 @@ python visualize_shark_data.py
 ---
 
 ## 🦈 Contact
-Sebastian Benitez​ - [@espol.edu.ec](mailto:@espol.edu.ec)
-Abel López Macías​ - [@espol.edu.ec](mailto:@espol.edu.ec)
-Sebastian Mites​ - [@espol.edu.ec](mailto:@espol.edu.ec)
-Sophia Eras Aspiazu​ - [@espol.edu.ec](mailto:@espol.edu.ec)
-William Mayorga - [wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
+Sebastian Benitez​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Abel López Macías​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Sebastian Mites​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+Sophia Eras Aspiazu​ - [123@espol.edu.ec](mailto:@espol.edu.ec)
+William Mayorga - [123wilimayo@espol.edu.ec](mailto:wilimayo@espol.edu.ec)
