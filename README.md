@@ -52,7 +52,7 @@ This project aims to **better understand sharks**, their foraging patterns, and 
 4. **The visualization module** creates interactive maps and graphs.
 
 <div align="center">
-  <img src="images/tactialShark.png" alt="tacticalShark" width="300"/>
+  <img src="images/tacticalShark.png" alt="tacticalShark" width="300"/>
 </div>
 
 ---
