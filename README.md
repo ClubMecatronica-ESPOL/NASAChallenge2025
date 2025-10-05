@@ -97,12 +97,23 @@ python temp_convertir_nc_a_csv.py
 python chloro_convertir_nc_a_csv.py
 ```
 
-5. Visualize the results:
+5. Merge the two .csv files :
 
 ```bash
-python visualize_shark_data.py
+python creacion_archivos.py
 ```
 
+6. Create and train your machine learning model:
+   
+```bash
+python modelo.py
+```
+
+7. Test the model:
+   
+```bash
+python prediccion.py
+```
 ---
 
 ## 🌟 Results
